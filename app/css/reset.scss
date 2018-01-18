@@ -18,7 +18,9 @@ center, u, b, i {
     vertical-align: baseline
 }
 body {
-    line-height: 1
+    line-height: 1;
+    background: #f5f5f5;
+    font-family: PingFangSC-Regular,Arial,"Helvetica Neue",Helvetica,sans-serif;
 }
 :focus {
     outline: 0
