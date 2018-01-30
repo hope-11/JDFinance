@@ -34,7 +34,7 @@ export default {
                 src: "//img12.360buyimg.com/jrpmobile/jfs/t18490/159/112030789/41525/a766babf/5a5ddcb9N88ff9654.jpg?width=750&height=320",
             }],
             enters: [{
-                href: "home",
+                href: "download",
                 img: "//img12.360buyimg.com/jrpmobile/jfs/t3991/64/2521945388/12110/93c0139/58d1e462Ncf294123.png?width=132&height=132",
                 title: "优惠券",
             }, {
@@ -46,7 +46,7 @@ export default {
                 img: "//img12.360buyimg.com/jrpmobile/jfs/t4393/329/2180608902/13217/c88c0cec/58ec9dcdN1534e2d7.png?width=132&height=132",
                 title: "抢钢镚",
             }, {
-                href: "home",
+                href: "download",
                 img: "//img12.360buyimg.com/jrpmobile/jfs/t4618/115/2179710654/11347/bf520df/58ec9d84Nfd169001.png?width=132&height=132",
                 title: "领京豆",
             }, {
